@@ -1,0 +1,86 @@
+angular.io
+playlist - code evolution playlist- serch as angular 7
+
+
+html- new boston
+
+
+folder 
+-- Business logic - .ts
+-- view --HTML css
+-- test case .spec.ts
+
+react js - library
+
+to manage views
+
+
+
+angular+ioni -- mobile apps
+
+angular+bootstrap - responsive webapps
+
+cordova -- hybrid mobile apps
+
+
+not links-  routes angular.io/menus
+
+mulitple pages to route -- no loading - looks like single page application
+
+
+
+
+1. components
+2. directives ( html 5 ) just a prefix for ng angular
+
+* ng for 
+ng if 
+ ng switch 
+ng class related 
+nd stlye 
+
+
+
+pipes - inbuilt or custom pipes
+
+4. Forms  
+i) template driven forms  - forms module
+ii) reactive forms --Reactive forms module
+
+
+
+rest api from server to angular
+
+
+prmosises
+observeables -- rx js
+
+animations
+
+testing in angular -- jasmine
+
+
+environment --
+Node runtime - use java script to right server side 
+
+install node - NPM--nuget of .NET
+@angular/cli
+
+
+
+npm i -g @angular/cli
+ng 
+-- new project
+new component
+new pipes
+new server
+
+ng new SampleAngularApp
+
+
+deploy ---> ng build
+
+
+how to deploy 
+ng serve
+LTS version you have to download
