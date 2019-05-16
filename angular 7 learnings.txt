@@ -1,3 +1,5 @@
+
+
 angular.io
 playlist - code evolution playlist- serch as angular 7
 
@@ -84,3 +86,9 @@ deploy ---> ng build
 how to deploy 
 ng serve
 LTS version you have to download
+
+
+services has to be injected
+event binding with parent and child
+
+service more advantage than event binding
