@@ -92,3 +92,36 @@ services has to be injected
 event binding with parent and child
 
 service more advantage than event binding
+
+ng config schematics .@schematics/angular.component.spec false ----- not to generate the spect s file
+
+
+
+inline style and inline template
+ng g c delete/nospec -is -it
+
+use ` in the template in angular.json
+
+ng g c delete/componentnotinfolder/flatcomponent --flat
+
+
+ng g c  delete/componentnotinfolder/flatcomponent3 --flat
+
+
+below command will create only ts file
+
+ng g c  delete/componentnotinfolder/flatcomponent4 --flat -is -it --spec false
+
+Deployment in the  linux machine
+
+can keep security for specific folders
+
+****: forms :*****
+
+2 kind of forms 
+1. Template driven forms
+	import form module
+2. modular forms/reactive forms -- when validation needs to be dynamic can be changed as per cutomer needs 
+		import reactive formsmodule
+
+
